@@ -93,8 +93,8 @@ body>a{ display: none; }
     border: 5px solid #ddd;
 
     -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 #box.lv2 span{
